@@ -1,5 +1,3 @@
-# memories
-
 # Memories
 Full MERN Stack Social-Media application!
 
