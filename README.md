@@ -33,4 +33,6 @@ To build this application I have used next technologies:
 ## Important
   When you use the app please be patinet. Posts may be loading slower beacuse I use free sites for deployment, and therefore the requests are slower.
   
+  I will continue to work on this project in next few weeks!
+  
 # Thank you!!
