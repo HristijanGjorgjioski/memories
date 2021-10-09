@@ -9,6 +9,10 @@ const CommentSection = ({ post }) => {
     const [comments, setComments] = useState([1, 2, 3, 4])
     const [comment, setComment] = useState('')
 
+    const handleClick = () => {
+        
+    }
+
     return (
         <div>
             <div className={classes.commentsOuterContainer}>
@@ -31,6 +35,9 @@ const CommentSection = ({ post }) => {
                         value={comment}
                         onChange={(e) => setComment(e.target.value)}
                     />
+                    <Button style={{ marginTop: '10px'}} fullWidth disabled={!comment} variant="contained" onClick={handleClick}>
+                        Comment
+                    </Button>
                 </div>
             </div>
         </div>
