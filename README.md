@@ -1,7 +1,7 @@
 # Memories
 Full MERN Stack Social-Media application!
 
-![alt text](https://i.ibb.co/jvBqjtx/memories.png)
+![alt text](https://imgur.com/oTYk3RV.png)
 
 This is full stack MERN application. App is like social-media where users can upload posts and others people can see them and like them. Also app have full 
 authentication, users can create account and login with that account. Also I have used Google OAuth so the user is allow to login through their Google accounts.
